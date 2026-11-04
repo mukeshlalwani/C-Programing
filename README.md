@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/c-logo.svg" alt="C Language Logo" width="140" />
+<img src="c-logo.svg" alt="C Language Logo" width="140" />
 
 # 🚀 C Programming
 
