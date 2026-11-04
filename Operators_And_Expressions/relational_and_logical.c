@@ -13,7 +13,9 @@ int main(int argc, char const *argv[])
     printf("%d\n", a != b); // 1
 
     // Logical Operators
-    
+    printf("The value of this operation is %d\n", (a > b && a != b));
+    printf("The value of this operation is %d\n", (a <= b || a >= b));
+    printf("The value of this operation is %d\n", !(a == b));
 
     return 0;
 }
